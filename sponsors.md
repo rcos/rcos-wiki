@@ -1,26 +1,36 @@
-# Sponsors
+---
+title: Sponsors
+description: 
+published: true
+date: 2021-01-23T03:56:32.871Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-23T03:20:06.004Z
+---
 
-## Companies
+The various companies and individuals that have sponsored RCOS over the years.
 
-- [RedHat](https://www.redhat.com/)
-  - RedHat has funded student projects and learning workshops, including Introduction to Open Source Software.
+If you would like to become a sponsor, don't hesitate to [Contact Us](/contact)!
 
-- [Microsoft](https://www.microsoft.com/en-us/)
-  - Partially Funded Student projects (through Microsoft employee program).
+# Companies
 
-- [Mozilla](https://www.mozilla.org/en-US/foundation/)
+## [RedHat](https://www.redhat.com/)
+RedHat has funded student projects and learning workshops, including Introduction to Open Source Software.
+
+## [Microsoft](https://www.microsoft.com/)
+Partially Funded Student projects (through Microsoft employee program).
+
+## [Mozilla](https://www.mozilla.org/foundation/)
   - Helped with leadership program for mentors.
 
-- [Open Source Initiative](https://opensource.org/)
+## [Open Source Initiative](https://opensource.org/)
   - Educational Institution Member that has provided opportunities for students.
 
-- [Google](https://www.google.com/)
-  - Donated MAGPis and Cardboard VR.
+## [Google](https://www.google.com/)
+Donated MAGPis and Cardboard VR.
 
-- [The Humanitarian FOSS Project](http://www.hfoss.org/index.php/contact-us)
-  - Affliated member with Trinity, Connecticut College and Wesleyan University
+## [The Humanitarian FOSS Project](http://www.hfoss.org/)
+Affliated member with Trinity, Connecticut College and Wesleyan University
 
-<!-- TODO - address the following: -->
-<!-- - how to become a sponsor -->
-<!-- - how to donate to RCOS -->
-<!-- - link to contact information -->
+# Individuals
+No one yet! You could be the first!
