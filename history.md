@@ -2,13 +2,11 @@
 title: History
 description: 
 published: true
-date: 2021-01-23T03:51:36.590Z
+date: 2021-01-23T03:53:32.257Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-23T03:20:01.430Z
 ---
-
-# History
 
 <!-- Overview -->
 <!-- from Google Drive document, 'RCOS History-June 2017' -->
