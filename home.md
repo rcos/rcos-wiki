@@ -2,7 +2,7 @@
 title: Welcome to the RCOS Wiki
 description: 
 published: true
-date: 2021-01-23T03:14:06.776Z
+date: 2021-01-23T03:28:17.756Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-23T01:58:41.103Z
@@ -24,6 +24,3 @@ All members are encouraged to produce successful projects, but the primary goals
 RCOS is an active member of the [Mozilla Open Source Student Network](https://opensource.mozilla.community/) and is the first student run organization to be accepted as an associate member of the [Open Source Initiative](https://opensource.org/). With an enrolled membership of 200+ students and over 800 alumni, RCOS is the largest open source campus organization in the country.
 
 Check out the [FAQ](overview/faq.md?id=main) for more information.
-
-### RCOS Handbook
-This handbook is the single-source-of-truth of documentation for RCOS. It is intended to be a thorough, living document detailing the organizational practices of RCOS at every level. If you find a problem or something that you'd like to dispute, please [open an issue](https://github.com/rcos/handbook/issues/new). You can learn more about this handbook [here](handbook/README.md).
