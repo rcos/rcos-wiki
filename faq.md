@@ -1,4 +1,12 @@
-# Frequently Asked Questions
+---
+title: Frequently Asked Questions
+description: 
+published: true
+date: 2021-01-23T03:52:53.839Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-23T03:19:57.468Z
+---
 
 ## What do you do in RCOS?
 In a semester of RCOS, you work with a team (or solo) on an open source project. You can either start your own project and manage a team of students, or join a project and work under a project lead.
