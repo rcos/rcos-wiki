@@ -2,13 +2,13 @@
 title: Welcome to the RCOS Wiki
 description: 
 published: true
-date: 2021-01-23T03:52:23.356Z
+date: 2021-01-23T03:57:13.689Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-23T01:58:41.103Z
 ---
 
-The [**Rensselaer Center for Open Source**](rcos.io) - or **RCOS** (*`ar-kos`*) for short - is a community of motivated students at [Rensselaer Polytechnic Institute](http://rpi.edu) who develop open source projects under the guidance of experienced instructors and student mentors.
+The [**Rensselaer Center for Open Source**](https://rcos.io) - or **RCOS** (*`ar-kos`*) for short - is a community of motivated students at [Rensselaer Polytechnic Institute](http://rpi.edu) who develop open source projects under the guidance of experienced instructors and student mentors.
 
 ## Our Mission Statement
 
