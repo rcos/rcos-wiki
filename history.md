@@ -1,3 +1,13 @@
+---
+title: History
+description: 
+published: true
+date: 2021-01-23T03:51:36.590Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-23T03:20:01.430Z
+---
+
 # History
 
 <!-- Overview -->
@@ -9,7 +19,7 @@
 
 > NOTE - all the content below was taking from the following [RCOS OverviewJan16,2018-old presentation](https://docs.google.com/presentation/d/1mX6wNaIBUDo1RnLvu1POPQGLMi4wp8OA44SbA5C7xHM/edit#slide=id.g827926ff0_0_0). It needs to be refined a bit more now that it's been ported to the RCOS handbook.
 
-### Overview
+## Overview
 
 Founded in 2006 by generous $2M donation
 from Sean O'Sullivan
@@ -52,7 +62,7 @@ Funding rejuvenated by Red Hat in 2015.
 
 <!-- We Became an Affiliate Member of OSI -->
 
-### RedHat Funding (2014-2015)
+## RedHat Funding (2014-2015)
 
 Thrust: To improve the overall quality of RCOS projects and to increase diversity
 
@@ -62,7 +72,7 @@ Thrust: To improve the overall quality of RCOS projects and to increase diversit
 - Funds Undergraduate Mentors for two new courses
 
 
-### RedHat Funding (contd)
+## RedHat Funding (contd)
 - Diversity Hackathon - April 16-17, 2016
 - Primarily Hackathon for women students in Capital District universities, colleges and high schools
 - Coordinated jointly with Pearlhacks and RedHat
@@ -73,7 +83,7 @@ Thrust: To improve the overall quality of RCOS projects and to increase diversit
 - Bring students up to speed to join RCOS
 - Syllabus and Other details may be found at http://rcos.github.io/CSCI2961-01/ and https://github.com/rcos/CSCI2961-01
 
-### Going Forward
+## Going Forward
 - Scale the Course - How to reach more students.
 - Sustain software projects
 - Increase the sophistication of RCOS Projects
