@@ -1,3 +1,13 @@
+---
+title: code_of_conduct
+description: 
+published: true
+date: 2021-01-23T03:43:06.443Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-23T03:19:50.250Z
+---
+
 # RCOS Community Code of Conduct
 
 Our **Community Code of Conduct** outlines some common ground rules all RCOS members are expected to abide by in order to make RCOS an inclusive experience for everyone. You can find the RCOS Community Code of Conduct [here](community/CODE_OF_CONDUCT).
