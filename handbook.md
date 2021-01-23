@@ -2,7 +2,7 @@
 title: handbook
 description: 
 published: true
-date: 2021-01-23T03:29:18.155Z
+date: 2021-01-23T03:30:14.085Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-23T03:19:02.508Z
