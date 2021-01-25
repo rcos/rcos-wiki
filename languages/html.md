@@ -1,8 +1,8 @@
 ---
-title: html
-description: 
+title: HTML
+description: Hyper-Text Markup Language
 published: true
-date: 2021-01-25T23:17:55.341Z
+date: 2021-01-25T23:18:10.329Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-25T22:53:44.573Z
