@@ -1,4 +1,12 @@
-# Python
+---
+title: Python
+description: 
+published: true
+date: 2021-01-25T23:19:23.918Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-25T22:53:51.880Z
+---
 
 **Website**: <https://www.python.org/>
 
@@ -18,11 +26,10 @@ External resources such as tutorials and documentation
 
 ## Syntax
 
-``` {.python}
+```python
 print("Hello, World!")
 ```
 
 ## Libraries
 
--   [Django](/frameworks/Django) a powerful and fully featured web
-    backend.
+- [Django](/frameworks/django) a powerful and fully featured web backend.
