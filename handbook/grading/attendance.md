@@ -1,3 +1,13 @@
+---
+title: attendance
+description: 
+published: true
+date: 2021-01-23T03:18:37.407Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:18:34.610Z
+---
+
 # Attendance Guidelines
 
 <!-- **TODO** - we need to establish a threshold percentage that must be fulfilled by regular, non-bonus session attendance. The reason for this threshold is to ensure that bonus sessions are used to fill gaps in attendance, rather than supplement a significant portion of the requirement. -->

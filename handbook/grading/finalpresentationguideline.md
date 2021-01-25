@@ -1,3 +1,13 @@
+---
+title: finalpresentationguideline
+description: 
+published: true
+date: 2021-01-23T03:18:48.902Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:18:46.051Z
+---
+
 # Presentation
 
 We will have presentations on your projects during meeting times from 4/12-4/26. Every meeting has 2 rooms. You are expected to present with your room. You only need to come to DCC 318 on your presentation day, but you are welcome to come to any of them that interest you. If you can't make arrangements ASAP for an alternate date:

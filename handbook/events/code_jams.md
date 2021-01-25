@@ -1,3 +1,13 @@
+---
+title: code_jams
+description: 
+published: true
+date: 2021-01-23T03:18:10.762Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:18:08.037Z
+---
+
 # Code Jams
 
 !> This has been put on hold while remote learning is in effect.

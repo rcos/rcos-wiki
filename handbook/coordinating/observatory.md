@@ -1,3 +1,13 @@
+---
+title: observatory
+description: 
+published: true
+date: 2021-01-23T03:17:55.792Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:17:53.157Z
+---
+
 # Observatory
 
 This document outlines the the administrative workflow in [Observatory](http://rcos.io).

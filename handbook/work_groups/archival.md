@@ -1,3 +1,13 @@
+---
+title: archival
+description: 
+published: true
+date: 2021-01-23T03:20:41.868Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:20:39.285Z
+---
+
 # Archival Work Group
 The goals of the Archival Work Group are to create and maintain a record of the organization's history, membership, projects, structure, and milestones. As the resident historians of RCOS, members of the Archival Work Group will be tasked with preserving past artifacts while developing processes and procedures to archive future work.
 

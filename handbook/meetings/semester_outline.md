@@ -1,3 +1,13 @@
+---
+title: semester_outline
+description: 
+published: true
+date: 2021-01-23T03:19:23.087Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:19:20.399Z
+---
+
 # Semester Outline
 
 ## Summary

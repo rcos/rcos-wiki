@@ -1,3 +1,13 @@
+---
+title: small_group_meetings
+description: 
+published: true
+date: 2021-01-23T03:19:26.770Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:19:24.109Z
+---
+
 # Small Group Meetings
 
 !> Small group format has been revised while remote learning is in effect.

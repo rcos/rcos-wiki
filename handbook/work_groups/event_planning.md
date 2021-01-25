@@ -1,3 +1,13 @@
+---
+title: event_planning
+description: 
+published: true
+date: 2021-01-23T03:20:45.436Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:20:42.874Z
+---
+
 # Event Planning Work Group
 The goals of the Event Planning Work Group are to schedule and promote events like HackRPI, [Code Jams](/events/code_jams), and [Casual Coding Sessions](/events/casual_coding_sessions), and to manage communication and scheduling of guest speakers. Members of the Event Planning Work Group will be tasked with scheduling new events, establishing contact with new potential guest speakers, interfacing with past speakers whom we would like to return to RCOS, and collaborating with the [Archival Work Group](/work_groups/archival) to maintain a record of past speakers and their respective presentations.
 

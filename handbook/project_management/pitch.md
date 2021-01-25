@@ -1,3 +1,13 @@
+---
+title: pitch
+description: 
+published: true
+date: 2021-01-23T03:20:15.943Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:20:13.401Z
+---
+
 # Project Pitch
 
 At the start of each semester, project leads that are looking for members can pitch their project to the entire RCOS community. This is a single slide show including:

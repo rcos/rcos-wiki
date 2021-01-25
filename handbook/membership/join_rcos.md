@@ -1,3 +1,13 @@
+---
+title: join_rcos
+description: 
+published: true
+date: 2021-01-23T03:19:30.543Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:19:27.875Z
+---
+
 # How to join RCOS
 
 If you're an RPI student, hop in on our first meeting of the semester or join [our Discord](https://rcos-discord.herokuapp.com/) and introduce yourself! Feel free to ask questions to anyone, especially Mentors, Coordinators, and Faculty Advisors.

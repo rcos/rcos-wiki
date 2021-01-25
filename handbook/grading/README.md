@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2021-01-23T03:18:29.632Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:18:26.834Z
+---
+
 # Grading
 
 !> Grading only applies to students who enroll in RCOS for course credit. If you are participating for experience only (0 credits), you are not required to complete or submit any assignments or updates, nor is attendance required for you.

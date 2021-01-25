@@ -1,3 +1,13 @@
+---
+title: code_of_conduct_template
+description: 
+published: true
+date: 2021-01-23T03:17:33.663Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:17:30.900Z
+---
+
 # [Your Project] Code of Conduct
 In the interest of fostering an open and welcoming environment, [your project] pledges to be an inclusive and harassment-free experience for  all, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, educational background, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 

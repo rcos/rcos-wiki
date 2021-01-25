@@ -2,9 +2,9 @@
 title: handbook
 description: 
 published: true
-date: 2021-01-23T03:30:14.085Z
+date: 2021-01-23T03:30:17.054Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2021-01-23T03:19:02.508Z
 ---
 

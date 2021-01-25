@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2021-01-23T03:19:41.744Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:19:38.998Z
+---
+
 # Mentors
 
 !> While remote learning is in effect, mentor responsibilities are somewhat lessened as there are no in-person meetings. Instead, it is even more vital that mentors stay in touch with their small group projects and members as asynchronous meetings make it easy for members to feel isolated and fall behind.

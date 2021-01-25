@@ -1,3 +1,13 @@
+---
+title: inclement_weather
+description: 
+published: true
+date: 2021-01-23T03:19:15.680Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:19:13.066Z
+---
+
 # Inclement Weather Policy
 
 !> Of course, this policy is not in effect during remote learning.

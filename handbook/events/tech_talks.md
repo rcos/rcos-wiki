@@ -1,3 +1,13 @@
+---
+title: tech_talks
+description: 
+published: true
+date: 2021-01-23T03:18:25.833Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:18:23.190Z
+---
+
 # Tech Talks
 
 ## Overview

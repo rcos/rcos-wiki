@@ -1,3 +1,13 @@
+---
+title: contributions
+description: 
+published: true
+date: 2021-01-23T03:18:41.029Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:18:38.425Z
+---
+
 # Open Source Contributions Guidlines
 
 As part of each semester long journey, you need to make contributions to the community. 

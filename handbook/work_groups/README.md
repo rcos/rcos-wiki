@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2021-01-23T03:20:38.306Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:20:35.521Z
+---
+
 # Work Groups
 
 Work Groups provide students flexible opportunities to develop their leadership skills and make meaningful contributions to growing and maintaining RCOS as a leading campus organization. All Work Group positions are volunteer based and members are free to leave at anytime, though students enrolled in RCOS are encouraged to finish out the semester when possible.
