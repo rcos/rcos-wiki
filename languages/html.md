@@ -2,13 +2,11 @@
 title: HTML
 description: Hyper-Text Markup Language
 published: true
-date: 2021-01-25T23:18:10.329Z
+date: 2021-01-25T23:18:36.347Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-25T22:53:44.573Z
 ---
-
-# HTML
 
 **Website**: [HTML](https://en.wikipedia.org/wiki/HTML)
 
