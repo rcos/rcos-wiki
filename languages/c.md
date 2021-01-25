@@ -2,9 +2,9 @@
 title: C
 description: 
 published: true
-date: 2021-01-25T22:23:40.682Z
+date: 2021-01-25T23:16:22.583Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2021-01-25T22:23:38.059Z
 ---
 
@@ -19,16 +19,15 @@ but also requires them to do many things, such as memory management, for themsel
 
 ## Resources
 
-  - The [UNIX](/topics/unix) manual pages, see also [`man`](/tools/man)
-  - *[The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)*
+- The [UNIX](/topics/unix) manual pages, see also [`man`](/tools/man)
+- *[The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)*
 
 ## Syntax
 
 ```c
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
     printf("hello, world\n");
 }
 ```
