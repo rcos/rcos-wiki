@@ -1,22 +1,31 @@
+---
+title: html
+description: 
+published: true
+date: 2021-01-25T23:17:55.341Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-25T22:53:44.573Z
+---
+
 # HTML
 
 **Website**: [HTML](https://en.wikipedia.org/wiki/HTML)
 
-Part of the [Web Trifecta](/topics/trifecta).
+Part of the [Web Trifecta](/topics/web-trifecta).
 
-HTML forms the structure content of web sites using an XML-like syntax
-used by every web-site in the world.
+HTML forms the structure content of web sites using an XML-like syntax used by every web-site in the world.
 
 ## Resources
 
--   <https://www.w3schools.com/>
--   <https://developer.mozilla.org/en-US/>
+- <https://www.w3schools.com/>
+- <https://developer.mozilla.org/en-US/>
 
 ## Syntax
 
 HTML hello world displaying the base structure of an HTML document.
 
-``` {.html}
+```html
 <!DOCTYPE html>
 <html>
   <head>
