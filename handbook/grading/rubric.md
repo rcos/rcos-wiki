@@ -1,3 +1,13 @@
+---
+title: rubric
+description: 
+published: true
+date: 2021-01-23T03:18:57.354Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:18:53.549Z
+---
+
 # Grading Rubric
 
 Although RCOS is a team sport, grading is done on each individual member.

@@ -1,3 +1,13 @@
+---
+title: passwords
+description: 
+published: true
+date: 2021-01-23T03:17:59.560Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:17:56.841Z
+---
+
 # Passwords
 
 It is imperative that RCOS infrastructure and social media accounts are always accessible to Coordinators and Faculty Advisors from a secure, centralized location. We currently use [BitWarden](https://vault.bitwarden.com/#/vault) for this.

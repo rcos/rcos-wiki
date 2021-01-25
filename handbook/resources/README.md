@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2021-01-23T03:20:19.776Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:20:16.917Z
+---
+
 # Helpful Resources
 Whether you're completely new to the world of open source or you feel ready to tackle advanced topics like deep learning, we have plenty of resources! In addition to consulting the online resources, feel free to reach out to mentors or Coordinators as well.
 

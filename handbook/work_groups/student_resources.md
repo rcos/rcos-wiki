@@ -1,3 +1,13 @@
+---
+title: student_resources
+description: 
+published: true
+date: 2021-01-23T03:20:59.834Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:20:57.212Z
+---
+
 # Student Resources Work Group
 The goals of the Student Resources Work Group are to develop instructional materials for RCOS, curate a list of free resources for student developers, document best-practices for on-boarding new members, and discover projects to which RCOS students can make meaningful contributions. Includes maintainance of an up-to-date manifest of all RCOS-owned equipment and resources made available to student projects.
 

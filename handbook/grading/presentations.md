@@ -1,3 +1,13 @@
+---
+title: presentations
+description: 
+published: true
+date: 2021-01-23T03:18:52.547Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:18:49.904Z
+---
+
 # Presentation Guidelines
 
 Each project group is required to give one presentation. Presentations should be well prepared and rehearsed in the presence of a mentor for feedback. See [RCOS presentations](http://rcos.github.io/intro/presentations#/) for more details.

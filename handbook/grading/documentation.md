@@ -1,3 +1,13 @@
+---
+title: documentation
+description: 
+published: true
+date: 2021-01-23T03:18:45.024Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:18:42.113Z
+---
+
 # Documentation Guidelines
 
 Project repos must have a README and LICENSE, and each semester a project must submit a proposal that must be reviewed and approved. Other forms of documentation are encouraged and detailed below.

@@ -1,3 +1,13 @@
+---
+title: public_relations
+description: 
+published: true
+date: 2021-01-23T03:20:52.640Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:20:50.071Z
+---
+
 # Public Relations Work Group
 The goals of the Public Relations Work Group are to maintain, grow, and refine the public-facing aspects of RCOS. This includes managing RCOS social media outlets, curating the [RCOS Blog](https://blog.rcos.io), participating actively in alumni outreach, and producing a quarterly RCOS Newsletter.
 

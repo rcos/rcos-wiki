@@ -1,3 +1,13 @@
+---
+title: bylaws
+description: 
+published: true
+date: 2021-01-23T03:17:29.931Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:17:27.087Z
+---
+
 # Bylaws
 
 Our Bylaws are an extension of our [Code of Conduct](community/CODE_OF_CONDUCT.md). The Bylaws apply to RCOS meetings at RPI, including large group and small group meetings as well as bonus sessions, casual coding sessions, and any project meetings unless otherwise noted.

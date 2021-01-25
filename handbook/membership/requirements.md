@@ -1,3 +1,13 @@
+---
+title: requirements
+description: 
+published: true
+date: 2021-01-23T03:19:37.973Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:19:35.271Z
+---
+
 # What You'll Need
 
 All RCOS students will need a few belongings to succeed:

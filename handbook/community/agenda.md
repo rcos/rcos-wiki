@@ -1,3 +1,13 @@
+---
+title: agenda
+description: 
+published: true
+date: 2021-01-23T03:17:26.059Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:17:23.153Z
+---
+
 # First Two Weeks Agenda
 
 The first two weeks is an extremely important time to get new students acquainted with RCOS, old students updated on any changes in structure/leadership, assigning mentors and a handful of other tasks. This is the most important time for the Coordinators to be "on top of things".

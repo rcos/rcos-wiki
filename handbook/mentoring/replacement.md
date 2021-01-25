@@ -1,3 +1,13 @@
+---
+title: replacement
+description: 
+published: true
+date: 2021-01-23T03:19:45.504Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:19:42.734Z
+---
+
 # Mentor Replacement Policy
 
 We understand that mentors and Coordinators may leave during the semester due to unforeseen circumstances. The following document establishes protocol for when mentors leave during the semester.

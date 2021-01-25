@@ -1,3 +1,13 @@
+---
+title: large_group_meetings
+description: 
+published: true
+date: 2021-01-23T03:19:19.391Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-23T03:19:16.705Z
+---
+
 # Large Group Meetings
 
 !> Large group format has been revised while remote learning is in effect.
