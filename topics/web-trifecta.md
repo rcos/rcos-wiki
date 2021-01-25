@@ -2,14 +2,13 @@
 title: Web Trifecta
 description: 
 published: true
-date: 2021-01-25T22:57:42.778Z
+date: 2021-01-25T22:57:51.273Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-25T22:51:53.011Z
 ---
 
-The so-called "Web Trifecta" is the three primary languages that can
-be understood and run by modern web browsers. These are:
+The so-called "Web Trifecta" is the three primary languages that can be understood and run by modern web browsers. These are:
 
 - [HTML](/languages/html)
 - [CSS](/languages/css)
