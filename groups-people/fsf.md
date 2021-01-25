@@ -1,4 +1,12 @@
-# Free Software Foundation
+---
+title: Free Software Foundation
+description: 
+published: true
+date: 2021-01-25T23:34:11.763Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-25T23:03:36.624Z
+---
 
 **Website**: <https://www.fsf.org/>
 
