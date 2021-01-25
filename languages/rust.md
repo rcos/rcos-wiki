@@ -2,13 +2,11 @@
 title: Rust
 description: 
 published: true
-date: 2021-01-25T23:23:52.901Z
+date: 2021-01-25T23:24:34.284Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-25T22:54:02.980Z
 ---
-
-# Rust
 
 **Website**: <https://rust-lang.org>
 
