@@ -2,7 +2,7 @@
 title: Linux
 description: 
 published: true
-date: 2021-01-26T00:02:35.643Z
+date: 2021-01-26T00:03:04.273Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-25T22:51:41.994Z
@@ -18,11 +18,11 @@ The Linux kernel is an [operating system kernel](/topics/opsys#kernel) started i
 
 ## GNU/Linux Operating System
 
-The GNU/Linux family of operating systems, which is what is most commonly meant when referring to \"Linux\", are operating systems using the Linux kernel and the [GNU](/groups-people/GNU) userland tools.
+The GNU/Linux family of operating systems, which is what is most commonly meant when referring to \"Linux\", are operating systems using the Linux kernel and the [GNU](/groups-people/gnu) userland tools.
 
 ## Distributions
 
-GNU/Linux comes in the form of a variety of [distributions](/topics/linux/distros) or "distros" created by a variety of organizations.
+GNU/Linux comes in the form of a variety of distributions or "distros" created by a variety of organizations.
 
 ### Popular Distributions
 
