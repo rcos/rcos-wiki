@@ -1,14 +1,12 @@
 ---
-title: windows
+title: Microsoft Windows
 description: 
 published: true
-date: 2021-01-26T00:13:45.078Z
+date: 2021-01-26T00:13:56.602Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-25T22:52:00.177Z
 ---
-
-# Microsoft Windows
 
 **Website**: <https://www.microsoft.com/windows/>
 
