@@ -1,14 +1,13 @@
 ---
-title: CODE_OF_CONDUCT
+title: RCOS Community Code of Conduct
 description: 
 published: true
-date: 2021-01-23T03:17:22.141Z
+date: 2021-01-26T00:15:09.537Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2021-01-23T03:17:19.274Z
 ---
 
-# RCOS Community Code of Conduct
 In the interest of fostering an open and welcoming environment, RCOS pledges to be an inclusive and harassment-free experience for  all, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, educational background, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 The RCOS Community Code of Conduct applies to all RCOS activity and activity affiliated with any RCOS project online and offline.
