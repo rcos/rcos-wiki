@@ -2,7 +2,7 @@
 title: RCOS Grading
 description: 
 published: true
-date: 2021-01-26T00:44:05.906Z
+date: 2021-01-26T00:44:32.667Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-23T03:18:26.834Z
@@ -27,7 +27,7 @@ The rubric details what categories make up your grade. Please read through the g
 
 **[Presentations](/handbook/grading/presentations)**
 
-**[Attendance](/handbook/rading/attendance)**
+**[Attendance](/handbook/grading/attendance)**
 
 ## Grade Appeal Policies
 
