@@ -2,13 +2,11 @@
 title: Project Management
 description: 
 published: true
-date: 2021-01-26T00:05:36.636Z
+date: 2021-01-26T00:06:31.805Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-25T22:51:49.263Z
 ---
-
-**Website**: [Project Management](https://en.wikipedia.org/wiki/Project Management)
 
 The management of a project is one of the most important aspects, to the
 point where in many enterprise environments there are people whose whole
@@ -87,4 +85,5 @@ This goes very well with the CI/CD workflow.
 
 ## Resources
 
+- <https://en.wikipedia.org/wiki/Project%20Management>
 - [Project Management presentation by Steven vZ](https://gist.github.com/rushsteve1/d160cf1f629650bfe0605326d2b5458c)
