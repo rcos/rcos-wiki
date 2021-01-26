@@ -1,40 +1,31 @@
 ---
-title: contributions
+title: Open Source Contributions Guidlines
 description: 
 published: true
-date: 2021-01-23T03:18:41.029Z
+date: 2021-01-26T00:49:09.740Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2021-01-23T03:18:38.425Z
 ---
-
-# Open Source Contributions Guidlines
 
 As part of each semester long journey, you need to make contributions to the community. 
 They need to be significant, licensed correctly to allow open reuse, and importantly, they need to be findable.
 This applies to code contributions, design documents, hardware diagrams, description of issues found and overcome, and to all the other artifacts that would allow someone else to retrace your footsteps and replicate your accomplishments.
 
-**We understand that during their first semester of participation or during 
-the first semester of a new project, students do not always have a lot of 
-code to commit. Do not let that keep you from making open source contrbutions. 
-The investigations, research and design you are exploring should be used to 
-create tutorials, design documents, user studies, etc., 
-all of which can
-be included in your repository in appropriate directories and should also be reflected 
-in well structured status updates. If you 
-are having problems deciding how to contribute, please see your mentor, a
-Coordinator or a Faculty Advisor for help and suggestions. Failure to do so will impact your grade.**
+We understand that during their first semester of participation or during the first semester of a new project, students do not always have a lot of code to commit. Do not let that keep you from making open source contrbutions.
+The investigations, research and design you are exploring should be used to create tutorials, design documents, user studies, etc., all of which can be included in your repository in appropriate directories and should also be reflected in well structured status updates.
+If you are having problems deciding how to contribute, please see your mentor, a Coordinator or a Faculty Advisor for help and suggestions. Failure to do so will impact your grade.
 
 ### What consitutes contributions?
-- quality code commits
-- documentation
-- hardware designs
-- user studies
-- guides
-- tutorials
+- Quality code commits
+- Documentation
+- Hardware designs
+- User studies
+- Guides
+- Tutorials
 
 ### What does NOT constitute contributions?
-- links to read/watched tutorials
+- Links to read/watched tutorials
 <!-- TODO?: - opening issues -->
 
 
@@ -46,4 +37,4 @@ Contribute to something outside of RCOS or help out another group with an issue!
 
 Within RCOS, we also want to generate a community of helping other projects and making your project more friendly to outside contributors. If you're doing your external contributions to another RCOS project, it must be a project that you have not previouly worked on and you must communicate with the project through GitHub issues, PRs, and code reviews.
 
-External contributions are strongly encouraged but are not required. With the approval of a mentor, a significant external contribution can take the place of a ~~single~~ [milestone requirement](#milestones).
+External contributions are strongly encouraged but are not required. With the approval of a mentor, a significant external contribution can take the place of a [milestone requirement](#milestones).
