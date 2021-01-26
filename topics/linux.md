@@ -2,7 +2,7 @@
 title: Linux
 description: 
 published: true
-date: 2021-01-26T00:03:04.273Z
+date: 2021-01-26T00:03:17.576Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-25T22:51:41.994Z
@@ -14,7 +14,7 @@ dateCreated: 2021-01-25T22:51:41.994Z
 
 ## Linux Kernel
 
-The Linux kernel is an [operating system kernel](/topics/opsys#kernel) started in 1996 by [Linus Torvalds](/groups-people/Linus Torvalds) and maintained by him and contributors to this day.
+The Linux kernel is an [operating system kernel](/topics/opsys#kernel) started in 1996 by [Linus Torvalds](/groups-people/linus_torvalds) and maintained by him and contributors to this day.
 
 ## GNU/Linux Operating System
 
