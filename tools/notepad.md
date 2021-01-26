@@ -1,14 +1,12 @@
 ---
-title: notepad
+title: Notepad
 description: 
 published: true
-date: 2021-01-26T00:38:37.537Z
+date: 2021-01-26T00:38:46.880Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-25T23:35:12.944Z
 ---
-
-# Notepad
 
 **Website**: <https://en.wikipedia.org/wiki/Microsoft%20Notepad>
 
