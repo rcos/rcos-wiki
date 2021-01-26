@@ -2,7 +2,7 @@
 title: Git
 description: 
 published: true
-date: 2021-01-26T00:33:40.897Z
+date: 2021-01-26T00:33:55.305Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-25T23:35:05.404Z
@@ -21,6 +21,6 @@ There are a number of major git hosting providers including:
 ## Resources
 
 - <https://try.github.io/>
-- [Git Tutorial by Grace Roller](https://github.com/garoller/git-tutorial)
+- [Git Tutorial by Grace R](https://github.com/garoller/git-tutorial)
 - Git Workshop Slides [Google Sides](https://docs.google.com/presentation/d/1bASIVNLhKlCiJ6lVnkapINVG7hJ3QzDNB1TKUy4k2ec)
 - [Palmer S's Git Presentation](https://docs.google.com/presentation/d/13K-WnlWob6BYJXiwdM4nF0nz2PJKuHuh1zW5UhWnXAs/edit?usp=sharing)
