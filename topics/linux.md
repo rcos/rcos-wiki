@@ -2,7 +2,7 @@
 title: Linux
 description: 
 published: true
-date: 2021-01-26T00:02:28.133Z
+date: 2021-01-26T00:02:35.643Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-25T22:51:41.994Z
@@ -32,7 +32,7 @@ GNU/Linux comes in the form of a variety of [distributions](/topics/linux/distro
 - [OpenSUSE](https://opensuse.org)
 - [Arch](https://archlinux.org/)
 - [Gentoo](https://gentoo.org/)
-{.link-list}
+{.links-list}
 
 ## Resources
 
