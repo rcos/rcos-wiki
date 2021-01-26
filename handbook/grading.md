@@ -2,7 +2,7 @@
 title: RCOS Grading
 description: 
 published: true
-date: 2021-01-26T00:44:32.667Z
+date: 2021-01-26T00:46:10.628Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-23T03:18:26.834Z
@@ -19,15 +19,12 @@ Generally speaking, if you're contributing to the community and/or making valuab
 
 The rubric details what categories make up your grade. Please read through the guidelines for the grading categories below to know what is **required** and recommended for RCOS members each semester.
 
-**[Contributions](/handbook/grading/contributions)**
-
-**[Status Updates](/handbook/grading/status_updates)**
-
-**[Documentation](/handbook/grading/documentation)**
-
-**[Presentations](/handbook/grading/presentations)**
-
-**[Attendance](/handbook/grading/attendance)**
+- [Contributions](/handbook/grading/contributions)
+- [Status Updates](/handbook/grading/status_updates)
+- [Documentation](/handbook/grading/documentation)
+- [Presentations](/handbook/grading/presentations)
+- [Attendance](/handbook/grading/attendance)
+{.links-list}
 
 ## Grade Appeal Policies
 
